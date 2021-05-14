@@ -12,6 +12,8 @@ Our project specifically uses data from 250 participants with chronic kidney dis
 
 Live App Link: https://bstraus.shinyapps.io/CKDprediction/
 
+App Video: https://www.dropbox.com/s/xhk1nps9bjq7wuq/Straus_CKD_DataScienceProject.mp4?dl=0
+
 This app plots data of patients with Chronic Kidney Disease (CKD) and makes a prediction of CKD given data using a classifying model on the CKD data.
 
 Package requirements: methods, stats, utils, grDevices, graphics, datasets, base, flexdashboard, shiny, leaflet, reshape2, tidyverse, shinyWidgets, dygraphs, magrittr, dplyr, ggplot2, plotly
